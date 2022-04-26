@@ -15,13 +15,13 @@ Página de aterrizaje donde publicaré mis proyectos  -> https://agcg1991.github
 
 
 
-# Si quieres contactar conmigo : 
+## Si quieres contactar conmigo : 
 
 📩  email: aitor_gustavo@hotmail.com
 
 🔭 [LinkedIn] : https://www.linkedin.com/in/aitorgustavocamacho/
 
-# Lista de tareas pendientes :
+## Lista de tareas pendientes :
 - [x] Formulario de contacto funcional
 - [ ] Ampliar galería de proyectos desplegados
 - [ ] Mejorar responsive web para móviles
