@@ -4,6 +4,11 @@ Mi nombre es Aitor y soy desarrollador front end, actualmente estoy aprendiendo 
 
 Página de aterrizaje donde publicaré mis proyectos  -> https://agcg1991.github.io/
 
+#Lista de repositorios utilizando react:
+
+| REPOSITORIO| LINK VISUALIZACIÓN|
+| ----- | ---- |
+| https://github.com/AGCG1991/citas-react | https://agcg1991.github.io/citas-react/|
 # Si quieres contactar conmigo : 
 
 📩  email: aitor_gustavo@hotmail.com
