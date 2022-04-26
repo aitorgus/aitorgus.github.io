@@ -4,7 +4,7 @@ Mi nombre es Aitor y soy desarrollador front end, actualmente estoy aprendiendo 
 
 Página de aterrizaje donde publicaré mis proyectos  -> https://agcg1991.github.io/
 
-#Lista de repositorios utilizando react:
+## Lista de repositorios utilizando react:
 
 | REPOSITORIO| LINK VISUALIZACIÓN|
 | ----- | ---- |
